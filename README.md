@@ -1,11 +1,17 @@
 # Proyecto 1: Quién es quién?
 
 # Tabla de contenidos
-1. [¿Quienes somos?](#quienes-somos)
-2. [Carpetas y Archivos](#carpetas-archivos)
+1. [Introducción](#intro)
+2. [¿Quienes somos?](#quienes-somos)
+3. [Carpetas y Archivos](#carpetas-archivos)
    1. [Archivos de configuración y txt](#archivos-configuracion)
-3. [Easter Egg](#easteregg)
-4. [Aviso Importante](#aviso)
+4. [Easter Egg](#easteregg)
+5. [Aviso Importante](#aviso)
+
+## Introducción <a name="intro"></a>
+Este ha sido el primer proyecto en grupo del curso de Diseño de Aplicaciones Web (2º año).
+Dicho proyecto ha sido con unas bases mínimas de PHP y JavaScript.
+Se nos prohibió utilizar cualquier tipo de librería o framework en el JS.
 
 ## ¿Quienes somos? <a name="quienes-somos"></a>
 El equipo está formado por:
